@@ -12,6 +12,8 @@
 **/*.iml
 **/*.iws
 **/out/
+.idea
+.target
 
 # -- Mac
 **/.DS_Store
