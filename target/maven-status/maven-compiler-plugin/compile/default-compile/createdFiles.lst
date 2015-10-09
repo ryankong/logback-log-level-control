@@ -1,0 +1,8 @@
+com/gm/common/log/service/LogbackService.class
+com/gm/common/log/servlet/LogbackServlet$2.class
+com/gm/common/log/controller/LogbackController.class
+com/gm/common/log/servlet/LogbackServlet$1.class
+com/gm/common/log/servlet/LogbackServlet$3.class
+com/gm/common/log/init/LogbackLogLevelControlPluginInitializer.class
+com/gm/common/log/servlet/LogbackServlet$4.class
+com/gm/common/log/servlet/LogbackServlet.class
